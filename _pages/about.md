@@ -17,14 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a second year Ph.D student from College of information science & electronic engineering, Zhejiang University. My research interest includes model compression (typically vector quantization) and edge accelerators. I'm co-advised by Prof. Kejie Huang and Prof. Haibin Shen. 
-
-
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+I'm a second year Ph.D student from College of information science & electronic engineering, Zhejiang University. My research interest includes model compression (typically vector quantization) and edge accelerators. I'm co-advised by Prof. Kejie Huang and Prof. Haibin Shen. Currently I'm also a research intern at VIVO. 
 
 # 📝 Publications 
 
@@ -78,15 +71,10 @@ Juncan Deng, **Shuaiting Li**, Zeyu Wang, Hong Gu, Kedong Xu, Kejie Huang
 
 - ``TCAS-II`` [Ews: An energy-efficient cnn accelerator with enhanced weight stationary dataflow](https://ieeexplore.ieee.org/abstract/document/10415881), Chengxuan Wang, Zongsheng Wang, **Shuaiting Li**, Yuanming Zhang, Haibin Shen, Kejie Huang.
 - ``GRSL`` [Cross-modal adaptation for object detection in thermal infrared remote sensing imagery](https://ieeexplore.ieee.org/abstract/document/10835167), Zeyu Wang, **Shuaiting Li**, Kejie Huang.
-# 🎖 Honors and Awards
-- 
 
 # 📖 Educations
 - *2023.09 - now*, PhD student, College of information science & electronic engineering, Zhejiang University
 - *2019.09 - 2023.06*, Undergrad student, College of information science & electronic engineering, Zhejiang University
-
-# 💬 Invited Talks
-- 
 
 # 💻 Internships
 - *2024.03 - now*, Research intern at VIVO Mobile Communication, China.
