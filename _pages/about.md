@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# About Me
 I'm a second year Ph.D student from College of information science & electronic engineering, Zhejiang University. My research interest includes model compression (typically vector quantization) and edge accelerators. 
 
 I'm co-advised by Prof. Kejie Huang and Prof. Haibin Shen. Currently, I'm also a research intern at VIVO. 
