@@ -34,7 +34,7 @@ I'm co-advised by Prof. Kejie Huang and Prof. Haibin Shen. Currently I'm also a 
 **Shuaiting Li**, Chengxuan Wang, Juncan Deng, Zeyu Wang, Zewen Ye, Zongsheng Wang, Haibin Shen, Kejie Huang
  
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A highly efficient HW-SW co-designed accelerator for vector quantization. 
+- A highly efficient HW-SW co-designed accelerator for Vector Quantization. 
 </div>
 </div>
 
@@ -46,7 +46,7 @@ I'm co-advised by Prof. Kejie Huang and Prof. Haibin Shen. Currently I'm also a 
 **Shuaiting Li**, Juncan Deng, Chenxuan Wang, Kedong Xu, Rongtao Deng, Hong Gu, Haibin Shen, Kejie Huang
  
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A new VQ paradigm, simple but effective.
+- A new Vector Quantization paradigm, simple but effective.
 </div>
 </div>
 
@@ -58,7 +58,7 @@ I'm co-advised by Prof. Kejie Huang and Prof. Haibin Shen. Currently I'm also a 
 Juncan Deng, **Shuaiting Li**, Zeyu Wang, Kedong Xu, Hong Gu, Kejie Huang
  
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- The first sub-2bit vector quantization solution for Visual Mambas. 
+- The first sub-2bit Vector Quantization solution for Visual Mambas. 
 </div>
 </div>
 
@@ -70,7 +70,7 @@ Juncan Deng, **Shuaiting Li**, Zeyu Wang, Kedong Xu, Hong Gu, Kejie Huang
 Juncan Deng, **Shuaiting Li**, Zeyu Wang, Hong Gu, Kedong Xu, Kejie Huang
  
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- The first 2bit vector quantization solution for Diffusion in Transformers. 
+- The first 2bit Vector Quantization solution for Diffusion in Transformers. 
 </div>
 </div>
 
