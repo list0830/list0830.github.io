@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Shuaiting Li.
+I'm a second year Ph.D student from College of information science & electronic engineering, Zhejiang University. My research interest includes model compression (typically vector quantization) and edge accelerators. I'm co-advised by Prof. Kejie Huang and Prof. Haibin Shen. 
 
 
 
@@ -36,11 +36,11 @@ I'm Shuaiting Li.
 **Shuaiting Li**, Chengxuan Wang, Juncan Deng, Zeyu Wang, Zewen Ye, Zongsheng Wang, Haibin Shen, Kejie Huang
  
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A highly efficient HW-SW co-designed accelerator for vector quantization. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/SSVQ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting](https://arxiv.org/abs/2503.08668)
@@ -48,11 +48,11 @@ I'm Shuaiting Li.
 **Shuaiting Li**, Juncan Deng, Chenxuan Wang, Kedong Xu, Rongtao Deng, Hong Gu, Haibin Shen, Kejie Huang
  
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A new VQ paradigm, simple but effective.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/VIMVQ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba](https://arxiv.org/pdf/2503.09509)
@@ -60,11 +60,11 @@ I'm Shuaiting Li.
 Juncan Deng, **Shuaiting Li**, Zeyu Wang, Kedong Xu, Hong Gu, Kejie Huang
  
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- The first sub-2bit vector quantization solution for Visual Mambas. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/VQ4DIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers](https://ojs.aaai.org/index.php/AAAI/article/view/33782)
@@ -72,12 +72,12 @@ Juncan Deng, **Shuaiting Li**, Zeyu Wang, Kedong Xu, Hong Gu, Kejie Huang
 Juncan Deng, **Shuaiting Li**, Zeyu Wang, Hong Gu, Kedong Xu, Kejie Huang
  
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- The first 2bit vector quantization solution for Diffusion in Transformers. 
 </div>
 </div>
 
-- 
-
+- ``TCAS-II`` [Ews: An energy-efficient cnn accelerator with enhanced weight stationary dataflow](https://ieeexplore.ieee.org/abstract/document/10415881), Chengxuan Wang, Zongsheng Wang, **Shuaiting Li**, Yuanming Zhang, Haibin Shen, Kejie Huang.
+- ``GRSL`` [Cross-modal adaptation for object detection in thermal infrared remote sensing imagery](https://ieeexplore.ieee.org/abstract/document/10835167), Zeyu Wang, **Shuaiting Li**, Kejie Huang.
 # 🎖 Honors and Awards
 - 
 
@@ -89,4 +89,4 @@ Juncan Deng, **Shuaiting Li**, Zeyu Wang, Hong Gu, Kedong Xu, Kejie Huang
 - 
 
 # 💻 Internships
-- *2024.03 - now*, Research intern at VIVO, China.
+- *2024.03 - now*, Research intern at VIVO Mobile Communication, China.
