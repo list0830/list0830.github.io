@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a second year Ph.D student from College of information science & electronic engineering, Zhejiang University. My research interest includes model compression (typically vector quantization) and edge accelerators. 
 
-I'm co-advised by Prof. Kejie Huang and Prof. Haibin Shen. Currently I'm also a research intern at VIVO. 
+I'm co-advised by Prof. Kejie Huang and Prof. Haibin Shen. Currently, I'm also a research intern at VIVO. 
 
 # 🔥 News
 - *2025.06*: 🎉 Two papers are accepted by ICCV 2025.
