@@ -34,7 +34,7 @@ I'm co-advised by Prof. Kejie Huang and Prof. Haibin Shen. Currently, I'm also a
 **Shuaiting Li**, Chengxuan Wang, Juncan Deng, Zeyu Wang, Zewen Ye, Zongsheng Wang, Haibin Shen, Kejie Huang
  
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A highly efficient HW-SW co-designed accelerator for Vector Quantization. 
+- A highly efficient HW-SW co-designed system for Vector Quantization. 
 </div>
 </div>
 
