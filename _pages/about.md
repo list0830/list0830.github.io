@@ -28,7 +28,7 @@ I'm Shuaiting Li.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2025</div><img src='images/ASPLOS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MVQ: Towards Efficient DNN Compression and Acceleration with Masked Vector Quantization](https://dl.acm.org/doi/abs/10.1145/3669940.3707268)
