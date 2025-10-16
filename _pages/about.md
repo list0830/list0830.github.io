@@ -22,7 +22,9 @@ I'm a second year Ph.D student from College of information science & electronic 
 I'm co-advised by Prof. Kejie Huang and Prof. Haibin Shen. I used to be a research intern at VIVO Mobile Communication. 
 
 # 🔥 News
-- *2025.06*: 🎉 Two papers are accepted by ICCV 2025.
+- *2025.06*: 🎉 Two papers accepted by ICCV 2025.
+- *2024.12*: 🎉 One paper accepted by AAAI 2025.
+- *2024.10*: 🎉 One paper accepted by ASPLOS 2025.
 
 # 📝 Publications 
 
