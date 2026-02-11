@@ -29,6 +29,18 @@ I'm co-advised by Prof. Kejie Huang and Prof. Haibin Shen. I used to be a resear
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2026 </div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rethinking Residual Errors in Compensation-based LLM Quantization]
+
+**Shuaiting Li**, Juncan Deng, Kedong Xu, Rongtao Deng, Hong Gu, Minghan Jiang, Haibin Shen, Kejie Huang
+ 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A LLM PTQ algorithm, generalization to GPTAQ 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2025</div><img src='images/ASPLOS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
