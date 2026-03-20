@@ -32,12 +32,12 @@ I'm co-advised by Prof. Kejie Huang and Prof. Haibin Shen. I used to be a resear
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2026 </div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Rethinking Residual Errors in Compensation-based LLM Quantization]
+[Rethinking Residual Errors in Compensation-based LLM Quantization](https://openreview.net/forum?id=LWYZ1nNkJl)
 
 **Shuaiting Li**, Juncan Deng, Kedong Xu, Rongtao Deng, Hong Gu, Minghan Jiang, Haibin Shen, Kejie Huang
  
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A LLM PTQ algorithm, generalization to GPTAQ 
+- A LLM PTQ algorithm, generalization to GPTAQ. [code](https://github.com/list0830/ResComp)
 </div>
 </div>
 
@@ -56,12 +56,12 @@ I'm co-advised by Prof. Kejie Huang and Prof. Haibin Shen. I used to be a resear
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/SSVQ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting](https://arxiv.org/abs/2503.08668)
+[SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting](https://arxiv.org/abs/2503.08668) 
 
 **Shuaiting Li**, Juncan Deng, Chenxuan Wang, Kedong Xu, Rongtao Deng, Hong Gu, Haibin Shen, Kejie Huang
  
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A new Vector Quantization paradigm, simple but effective.
+- A new Vector Quantization paradigm, simple but effective. [code](https://github.com/list0830/SSVQ)
 </div>
 </div>
 
@@ -80,17 +80,20 @@ Juncan Deng, **Shuaiting Li**, Zeyu Wang, Kedong Xu, Hong Gu, Kejie Huang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/VQ4DIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers](https://ojs.aaai.org/index.php/AAAI/article/view/33782)
+[VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers](https://ojs.aaai.org/index.php/AAAI/article/view/33782) 
 
 Juncan Deng, **Shuaiting Li**, Zeyu Wang, Hong Gu, Kedong Xu, Kejie Huang
  
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- The first 2bit Vector Quantization solution for Diffusion in Transformers. 
+- The first 2bit Vector Quantization solution for Diffusion in Transformers. [code](https://github.com/dengjuncan/VQ4DiT)
 </div>
 </div>
 
+- ``Arxiv`` [Efficiency meets fidelity: A novel quantization framework for stable diffusion](https://arxiv.org/abs/2412.06661), **Shuaiting Li**, Juncan Deng, Zeyu Wang, Kedong Xu, Rongtao Deng, Hong Gu, Haibin Shen, Kejie Huang
 - ``TCAS-II`` [Ews: An energy-efficient cnn accelerator with enhanced weight stationary dataflow](https://ieeexplore.ieee.org/abstract/document/10415881), Chengxuan Wang, Zongsheng Wang, **Shuaiting Li**, Yuanming Zhang, Haibin Shen, Kejie Huang.
 - ``GRSL`` [Cross-modal adaptation for object detection in thermal infrared remote sensing imagery](https://ieeexplore.ieee.org/abstract/document/10835167), Zeyu Wang, **Shuaiting Li**, Kejie Huang.
+- ``ISCAS`` [A 1FeFET-1T-1C based Compute-in-Memory Macro with Capacitor Reused Pipeline SAR ADC](https://ieeexplore.ieee.org/abstract/document/11043876/), Minghan Jiang, Rui Xiao, Xinran Li, **Shuaiting Li**, Xiaolei Zhu, Yishu Zhang, Haibin Shen, Kejie Huang.
+- ``TCASAI`` [RARPIM: A Robust and Adaptive 1FeFET-1T-1C based Compute-in-Memory Macro with Capacitor Reused Pipeline SAR ADC](https://ieeexplore.ieee.org/abstract/document/11402902/), Minghan Jiang, Rui Xiao, Xinran Li, **Shuaiting Li**, Xiaolei Zhu, Yishu Zhang, Haibin Shen, Kejie Huang.
 
 # 📖 Educations
 - *2023.09 - now*, PhD student, College of information science & electronic engineering, Zhejiang University
