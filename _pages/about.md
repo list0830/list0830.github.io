@@ -19,7 +19,7 @@ redirect_from:
 # About Me
 I'm a third year Ph.D student from College of information science & electronic engineering, Zhejiang University. My research interest includes model compression (typically vector quantization) and edge accelerators. Currently I'm investigating QAT for large foundation models.
 
-I'm co-advised by Prof. Kejie Huang and Prof. Haibin Shen. I used to be a research intern at VIVO Mobile Communication. 
+I'm co-advised by Prof. Haibin Shen. I used to be a research intern at VIVO Mobile Communication. 
 
 # 🔥 News
 - *2026.01*: 🎉 One paper accepted by ICLR 2026.
