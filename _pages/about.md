@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I'm a third year Ph.D student from College of information science & electronic engineering, Zhejiang University. My research interest includes model compression (typically vector quantization) and edge accelerators. Currently I'm investigating QAT for large foundation models.
+I'm a third year Ph.D student from the College of Information Science & Electronic Engineering, Zhejiang University. My research interests include model compression (typically vector quantization) and edge accelerators. Currently, I'm investigating QAT for large foundation models and inference infra for world-action models.
 
-I'm co-advised by Prof. Haibin Shen. I used to be a research intern at VIVO Mobile Communication. 
+I'm fortunate to be advised by [Prof. Haibin Shen](https://person.zju.edu.cn/en/7fj86kj). Currently, I'm a research intern at Robbyant, mentored by [Prof. Yinghao Xu](https://justimyhxu.github.io/). I'm also working closely with [Dr. Haotong Qin](https://htqin.github.io/) and [Prof. Chaojian Li](https://licj15.github.io/). I used to be a research intern at VIVO Mobile Communication. 
 
 # 🔥 News
 - *2026.01*: 🎉 One paper accepted by ICLR 2026.
