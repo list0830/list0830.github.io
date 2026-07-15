@@ -33,7 +33,7 @@ I'm fortunate to be advised by [Prof. Haibin Shen](https://person.zju.edu.cn/en/
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TECH REPORT </div><img src='images/VA2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Native Video-Action Pretraining for Generalizable Robot Control](https://openreview.net/forum?id=LWYZ1nNkJl)
+[Native Video-Action Pretraining for Generalizable Robot Control](https://arxiv.org/html/2607.08639v1)
 
 Robbyant Team
  
@@ -45,7 +45,7 @@ Robbyant Team
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2026 </div><img src='images/iclr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Rethinking Residual Errors in Compensation-based LLM Quantization](https://openreview.net/forum?id=LWYZ1nNkJl)
+[Rethinking Residual Errors in Compensation-based LLM Quantization](https://arxiv.org/abs/2604.07955)
 
 **Shuaiting Li**, Juncan Deng, Kedong Xu, Rongtao Deng, Hong Gu, Minghan Jiang, Haibin Shen, Kejie Huang
  
