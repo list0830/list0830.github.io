@@ -39,7 +39,7 @@ I'm fortunate to be advised by [Prof. Haibin Shen](https://person.zju.edu.cn/en/
 Shuaiting Li, Zelin Gao, Haibin Shen, Yujun Shen, Haotong Qin*, Yinghao Xu*
  
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A QAT framework aligned with the stage-wise nature of video diffusion. [website](https://robbyant-research.github.io/DSAQuant/) [code](https://github.com/robbyant-research/DSAQuant)
+- A QAT framework aligned with the stage-wise nature of video diffusion. [website](https://robbyant-research.github.io/DSAQuant/)   [code](https://github.com/robbyant-research/DSAQuant)
 </div>
 </div>
 
