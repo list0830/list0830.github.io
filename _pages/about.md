@@ -17,18 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-I'm a third year Ph.D student from the College of Information Science & Electronic Engineering, Zhejiang University. My research interests include model compression (typically vector quantization) and edge accelerators. Currently, I'm investigating QAT for large foundation models and inference infra for world-action models.
+I'm a fourth year Ph.D student from the College of Information Science & Electronic Engineering, Zhejiang University. My research interests include model compression (typically vector quantization) and edge accelerators. Currently, I'm investigating QAT for large foundation models and inference infra for world-action models.
 
-I'm fortunate to be advised by [Prof. Haibin Shen](https://person.zju.edu.cn/en/7fj86kj). Currently, I'm a research intern at Robbyant, mentored by [Prof. Yinghao Xu](https://justimyhxu.github.io/). I'm also working closely with [Prof. Haotong Qin](https://htqin.github.io/) and [Prof. Chaojian Li](https://licj15.github.io/). I used to be a research intern at VIVO Mobile Communication. 
+I'm fortunate to be advised by [Prof. Haibin Shen](https://person.zju.edu.cn/en/7fj86kj). Currently, I'm a research intern at Robbyant, mentored by [Prof. Yinghao Xu](https://justimyhxu.github.io/) and [Dr. Zifan Shi](https://vivianszf.github.io/). I'm also working closely with [Prof. Haotong Qin](https://htqin.github.io/) and [Prof. Chaojian Li](https://licj15.github.io/). I used to be a research intern at VIVO Mobile Communication. 
 
 # 🔥 News
+- *2026.09*: 🎉 DSAQuant is accepted by NeurIPS 2026.
 - *2026.07*: 🎉 Lingbot-VA2.0 is released!
-- *2026.01*: 🎉 One paper accepted by ICLR 2026.
-- *2025.06*: 🎉 Two papers accepted by ICCV 2025.
-- *2024.12*: 🎉 One paper accepted by AAAI 2025.
-- *2024.10*: 🎉 One paper accepted by ASPLOS 2025.
+- *2026.01*: 🎉 ResComp is accepted by ICLR 2026.
+- *2025.06*: 🎉 SSVQ & ViM-VQ accepted by ICCV 2025.
+- *2024.12*: 🎉 VQ4DiT is accepted by AAAI 2025.
+- *2024.10*: 🎉 MVQ is accepted by ASPLOS 2025.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 </div><img src='images/dsaquant.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for Video Generation](https://arxiv.org/abs/2609.04031)
+
+Shuaiting Li, Zelin Gao, Haibin Shen, Yujun Shen, Haotong Qin*, Yinghao Xu*
+ 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A QAT framework aligned with the stage-wise nature of video diffusion. [website](https://robbyant-research.github.io/DSAQuant/) [code](https://github.com/robbyant-research/DSAQuant)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TECH REPORT </div><img src='images/VA2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
